@@ -4,7 +4,7 @@ Obtain unique genes from gene transcripts
 Information regarding each script is commented at the top of their respective files
 Pipeline using all the scripts in this repo: 
 
-python minus_xs.py #gives you filename_minus_xs.tmap 
+python minus_xs.py (gives you filename_minus_xs.tmap)
 
 python sort.py > sort_filename_minus_xs.tmap
 
